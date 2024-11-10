@@ -1,2 +1,3 @@
-# slambook
-PyPose examples in the SLAM Handbook
+# SLAM Handbook Gist
+
+This repo provides PyPose examples in the SLAM Handbook.
